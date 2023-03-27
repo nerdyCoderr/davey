@@ -1,8 +1,9 @@
-from part import Part
 # Program Name: Inventory System - Supplier Class
 # Description: A Python class that represents a supplier and their associated parts
 # Author: [Your Name]
 # Date: [Date]
+
+from part import Part
 
 
 class Supplier:
